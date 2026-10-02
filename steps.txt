@@ -1,0 +1,23 @@
+1) python3 -m venv .venv
+
+2) source .venv/bin/activate
+
+3) pip install fastapi uvicorn sqlalchemy aiosqlite (pip install -r .\requirements.txt)
+
+4) создаем файл main.py
+
+5) создаем database.py
+
+6) создаем repository.py
+
+7) создаем router.py
+
+8) чтобы развернуть на сервер создаем Dockerfile
+
+9) pip freeze > requirements.txt
+
+10) создаем .dockerignore
+
+11) создаем .gitignore
+
+12) 
